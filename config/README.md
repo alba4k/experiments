@@ -1,0 +1,1 @@
+A library to parse config files, inspired by the way [albafetch](https://github.com/alba4k/albafetch) does it (which is bad).

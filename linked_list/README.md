@@ -1,0 +1,1 @@
+Idk probably just a library to teach myself how to make and use linked lists
