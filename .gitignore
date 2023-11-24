@@ -1,0 +1,5 @@
+linked_list/build
+linked_list/*.o
+
+config/build
+config/*.o
